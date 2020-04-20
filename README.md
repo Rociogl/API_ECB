@@ -1,4 +1,4 @@
-# *ETL - API BCE*
+# *ETL*
 
 *API Banco Central Europeo con Python*
 
