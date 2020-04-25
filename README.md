@@ -8,5 +8,4 @@ En esta práctica llevo a cabo varios ejemplos prácticos sobre cómo extraer in
 
 El BCE posee un almacén de datos estadísticos llamado Statistical Data Warehouse (SWD). Está destinado a una amplia gama de usuarios de la zona euro, que van desde particulares que buscan una estadística más reciente específica o una serie de datos hasta usuarios más frecuentes, como #inversores, #economistas, #periodistas, #analistas e #investigadores.
 
-Para analizar la estructura del JSON utilizo la página web #codebeautify.org
-. 
+Para analizar la estructura del JSON utilizo la página web codebeautify.org
